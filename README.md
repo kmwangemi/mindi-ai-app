@@ -9,5 +9,5 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/sazalo101s-projects/v0-mental-health-assistant-68](https://vercel.com/sazalo101s-projects/v0-mental-health-assistant-68)**
+**[https://v0-mental-health-assistant-68.vercel.app/](https://v0-mental-health-assistant-68.vercel.app/)**
 
