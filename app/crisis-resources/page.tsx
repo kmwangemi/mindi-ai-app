@@ -24,7 +24,7 @@ export default function CrisisResourcesPage() {
             <CardDescription>For immediate danger to yourself or others</CardDescription>
           </CardHeader>
           <CardContent>
-            <p className="text-lg font-bold mb-2">Call 911 (Kenya) or your local emergency number</p>
+            <p className="text-lg font-bold mb-2">Call 999 (Kenya) or your local emergency number</p>
             <p className="text-sm mb-4">
               If you or someone you know is in immediate danger or at risk of harming themselves or others, call
               emergency services right away.
@@ -47,7 +47,7 @@ export default function CrisisResourcesPage() {
           <CardContent className="space-y-4">
             <div>
               <h3 className="font-medium">National Suicide Prevention Lifeline (Kenya)</h3>
-              <p className="text-lg font-bold">988 or 254115899434</p>
+              <p className="text-lg font-bold">999</p>
               <p className="text-sm text-muted-foreground">
                 24/7, free and confidential support for people in distress
               </p>
@@ -71,10 +71,10 @@ export default function CrisisResourcesPage() {
           </CardHeader>
           <CardContent className="space-y-4">
             <div>
-              <h3 className="font-medium">National Alliance on Mental Illness (NAMI)</h3>
-              <Link href="https://www.nami.org" target="_blank" rel="noopener noreferrer">
+              <h3 className="font-medium">Nairobi Mental Health Services (NMHS)</h3>
+              <Link href="https://www.nmhs.or.ke" target="_blank" rel="noopener noreferrer">
                 <Button variant="link" className="p-0 h-auto text-primary">
-                  www.nami.org
+                  www.nmhs.or.ke
                   <ExternalLink className="ml-1 h-3 w-3" />
                 </Button>
               </Link>

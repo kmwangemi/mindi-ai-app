@@ -59,7 +59,7 @@ export async function POST(req: Request) {
       IMPORTANT: The user may be expressing thoughts of self-harm or suicide.
       Respond with care and urgency. Acknowledge their feelings without judgment.
       Encourage them to reach out to crisis services immediately.
-      Provide the crisis hotline number: 988 or 1-800-273-8255 (US).
+      Provide the crisis hotline number: 999.
       Suggest they visit the Crisis Resources page in the app.
       `
           : ''
