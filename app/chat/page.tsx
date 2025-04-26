@@ -25,7 +25,7 @@ export default function ChatPage() {
     {
       id: "welcome",
       role: "assistant",
-      content: "Hi there! How are you feeling today? I'm here to listen and help.",
+      content: "Hi there! How are you feeling today? I'm here to listen and help make.",
       timestamp: new Date(),
     },
   ])

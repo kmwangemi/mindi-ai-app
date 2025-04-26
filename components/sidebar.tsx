@@ -60,7 +60,7 @@ export default function Sidebar() {
         )}
       >
         <div className="flex items-center mb-8 mt-2">
-          <h1 className="text-xl font-bold">Mental Health AI</h1>
+          <h1 className="text-xl font-bold">Mindi</h1>
         </div>
 
         <nav className="space-y-2 flex-1">
